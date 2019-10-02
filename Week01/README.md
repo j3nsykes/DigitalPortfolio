@@ -18,7 +18,7 @@ Explore the P5 environment looking at the canvas and how we can draw on it.
 - setup()
 - draw()
 - rect()
-![Image of simpledraw](https://github.com/j3nsykes/Images/myCanvas.jpg "Logo Title Text 1")
+![Image of simpledraw](https://github.com/j3nsykes/Images/blob/master/myCanvas.jpg)
 
 ### Exercise 02: Animate
 What methods can we use to animate our graphics?
