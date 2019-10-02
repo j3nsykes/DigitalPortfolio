@@ -16,14 +16,14 @@ These examples may give you an idea of what is possible with motors.
 
 - Introduction to [Arduino](https://www.arduino.cc/)
 - Void setup() and loop()
-<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove01.jpg" width="350">
+<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove01.png" width="350">
 
 - Making something come to life - Digital Outputs
-<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove02.jpg" width="350">
+<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove02.png" width="350">
 
 - Speed / intensity - Analog Outputs
-<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove03.jpg" width="350">
-<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove04.jpg" width="350">
+<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove03.png" width="350">
+<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove04.png" width="350">
 
 - Position and precision - Servo Motors. 
-<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove05.jpg" width="350">
+<img src="https://github.com/j3nsykes/Images/blob/master/makingthingsmove05.png" width="350">
