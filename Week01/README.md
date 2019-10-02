@@ -18,6 +18,7 @@ Explore the P5 environment looking at the canvas and how we can draw on it.
 - setup()
 - draw()
 - rect()
+<img src="https://github.com/j3nsykes/Images/blob/master/myCanvas.jpg" width="250">
 
 ### Exercise 02: Animate
 What methods can we use to animate our graphics?
@@ -32,6 +33,8 @@ How can we do the opposite of animating? What if we want to see traces of our dr
 - strokeWeight()
 - background()
 
+<img src="https://github.com/j3nsykes/Images/blob/master/myCanvas02.jpg" width="250">
+
 ### Exercise 04: Colour and Form
 How can we personalise these drawing methods?
 
@@ -39,3 +42,6 @@ How can we personalise these drawing methods?
 - ellipse()
 - line()
 - random()
+
+<img src="https://github.com/j3nsykes/Images/blob/master/myCanvas03.jpg" width="250">
+<img src="https://github.com/j3nsykes/Images/blob/master/myCanvas04.jpg" width="250">
