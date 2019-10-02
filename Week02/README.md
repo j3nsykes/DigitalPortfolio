@@ -22,8 +22,11 @@ To put these methods in to context these examples may help give you an idea of w
 
 ### Structure:
 - **00.00**	Opening presentation
-- **00.10** P5 setup and hardware setup
-- **00.40** How to tweak P5 code
+- **00.10** P5 setup and hardware setup  (upload DataStream.ino to Bare Conductive boards) 
+- **00.40** How to tweak P5 code with the [Bare Conductive Visualiser](https://editor.p5js.org/j3nsykes/sketches/7JEyzf440) 
+- More information on how to run the Visualiser can be found [here](https://github.com/j3nsykes/bareConductive_visualiser)
+<img src="https://github.com/j3nsykes/Images/blob/master/myCanvas05.jpg" width="350">
+
 - **00.55** Research and direction
 - **01.20** 1min feedback from each group
 - **01.30** Making
