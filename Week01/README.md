@@ -18,7 +18,7 @@ Explore the P5 environment looking at the canvas and how we can draw on it.
 - setup()
 - draw()
 - rect()
-
+<iframe src="https://editor.p5js.org/jen_GSA/embed/he1q8Bx1N"></iframe>
 ### Exercise 02: Animate
 What methods can we use to animate our graphics?
 - mouseX
