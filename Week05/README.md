@@ -17,7 +17,7 @@ How can we make multiple versions of our shapes?
 ### Exercise 02: Saving
 We may want to create some posters with our artwork.
 - How can we save our images on the canvas?
-<img src="https://github.com/j3nsykes/Images/blob/master/saveImage.jpg" width="350">
+<img src="https://github.com/j3nsykes/Images/blob/master/saveImage.png" width="350">
 
 ### Exercise 03: Images
 Until now we have explored shape, line and colour. What if we want to expand to imagery?
